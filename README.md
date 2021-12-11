@@ -11,7 +11,7 @@ TWILIO_API_KEY_SECRET=
 
 run:
 ```
-python -m venv venv
+python -m venv venv              #for first time only
 source venv/bin/activate
 ```
   if windows:
