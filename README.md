@@ -22,7 +22,7 @@ source venv/bin/activate
  
  then:
 `FLASK_ENV=development`
-for windows:
+\n for windows:
 `set FLASK_ENV=development`
 
 and finally:
