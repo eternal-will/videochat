@@ -1,1 +1,1 @@
-worker: python3 -m flask run
+worker: python3 -m flask run --host=0.0.0.0
