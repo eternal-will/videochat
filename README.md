@@ -30,6 +30,3 @@ and finally:
 
 `flask run`
 
-To use it without ngrok and on LAN:
-1. Open your 5000 port in firewall.
-2. use command: `flask run --host=0.0.0.0`
