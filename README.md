@@ -1,8 +1,8 @@
 # videochat
 
-`create a twilio account`
+```create a twilio account```
 
-.env example:
+.env file setup:
 ```
 TWILIO_ACCOUNT_SID= 
 TWILIO_API_KEY_SID= 
@@ -11,7 +11,7 @@ TWILIO_API_KEY_SECRET=
 
 run:
 ```
-python -m venv venv              #for first time only
+python3 -m venv venv              #for first time only
 source venv/bin/activate
 ```
   if windows:
